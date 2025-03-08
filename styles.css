@@ -1,0 +1,53 @@
+body {
+    background-color: #FFC0CB; /* Açık pembe tonu */
+}
+
+
+header {
+    background-color: #C71585;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+#timeline ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#timeline li {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
