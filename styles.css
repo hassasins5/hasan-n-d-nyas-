@@ -31,13 +31,11 @@ h2 {
 }
 
 footer {
-    text-align: center;
-    background-color: #333;
+    background-color: black;
     color: white;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    text-align: center;
+    padding: 2px 0; /* Daha da küçük boşluk */
+    font-size: 12px; /* Yazıyı biraz daha küçült */
 }
 
 button {
